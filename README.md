@@ -25,9 +25,7 @@ Kathmandu, Nepal
 - 🌐 Website: [oshinbalampaki.com.np](https://oshinbalampaki.com.np/)
 - 💼 LinkedIn: [oshin-balampaki](https://www.linkedin.com/in/oshin-balampaki-99bb5030b/)
 - ✉️ Email: ozinmagar62@gmail.com
-- 📞 Phone: +977 9826863782
 - 📸 Instagram: [@oshin_b_magar](https://www.instagram.com/oshin_b_magar/)
-- 🐦 X (Twitter): [@OBalampaki38706](https://x.com/OBalampaki38706)
 
 ---
 *"Building modern, fast, and accessible web experiences."*
